@@ -39,3 +39,10 @@ class Item {
 		//TODO
 	}
 }
+
+class Receipt {
+	List<item>;
+
+	double totalAmount () {
+	}
+}
